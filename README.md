@@ -1,5 +1,3 @@
-<div><p><img src="https://upload.wikimedia.org/
-
 # Icalingua
 
 Icalingua 这个名字是 [@91khr](https://github.com/91khr) 起的，是日语中「光」和拉丁语中「语言」的组合。
