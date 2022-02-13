@@ -6,7 +6,7 @@ Icalingua 这个名字是 [@91khr](https://github.com/91khr) 起的，是日语�
 
 Icalingua 的原作者删除了 Icalingua 代码库，该仓库是 Icalingua 2.4.5 版本源代码的备份
 
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)(https://github.com/trekhleb/state-of-the-art-shitcode)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 [![License](https://img.shields.io/aur/license/icalingua)](https://github.com/Icalingua/Icalingua/blob/main/LICENSE)
 [![discord](https://img.shields.io/static/v1?label=chat&message=discord&color=7289da&logo=discord)](https://discord.gg/gKnU7BARzv)
 [![AUR votes](https://img.shields.io/aur/votes/icalingua)](https://aur.archlinux.org/packages/icalingua/)
